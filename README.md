@@ -1,4 +1,4 @@
-Hi, I'm Maxime, based in Germany.
+Hi, I'm Maxime.
 
 I have worked as a data scientist since 2021, and mostly on LLM applications
 since 2023: agents, document search and prompt testing. I also build what goes
